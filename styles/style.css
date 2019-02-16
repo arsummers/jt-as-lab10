@@ -1,0 +1,55 @@
+body, html{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#logo-details {
+    display: inline-block;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#logo-set {
+    float: right;
+    display: inline-block;
+}
+
+#sub-text{
+    font-family: sans-serif;
+}
+
+#rect{
+    fill: red;
+}
+
+.printer{
+    float: right;
+}
+
+#recipe {
+    background-image: "images/list-bg.png";
+}
+
+#vanessa {
+    display: inline-block;
+}
+
+button {
+    float: right;
+    background-color: red;
+    color: white;
+    height: 20px;
+    width: 100px;
+}
+
+.recipe{
+    position: relative;
+    width: 100%;
+    background-image: url("../images/list-bg.png");
+}
+
+td {
+    position: absolute;
+}
